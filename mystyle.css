@@ -1,0 +1,11 @@
+.row {
+    background-color: bisque;
+}
+
+.col-md-6 {
+    padding: 15px;
+}
+
+.info {
+    padding: 15px;
+}
